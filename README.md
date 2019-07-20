@@ -9,7 +9,7 @@ Run the following commands:
 
 - `yarn add eslint nodemon`
 
-- `yarn add -D prettier typescript eslint-config-prettier eslint-plugin-prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser ts-node-dev @types/node @types/express`
+- `yarn add -D prettier typescript eslint-config-prettier eslint-plugin-prettier eslint-config-node eslint-plugin-node @typescript-eslint/eslint-plugin @typescript-eslint/parser ts-node-dev @types/node @types/express`
 
 - `npx tsc --init`
 
