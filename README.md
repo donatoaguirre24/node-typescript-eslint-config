@@ -11,6 +11,8 @@ Run the following commands:
 
 - `yarn add -D prettier typescript eslint-config-prettier eslint-plugin-prettier eslint-config-node eslint-plugin-node @typescript-eslint/eslint-plugin @typescript-eslint/parser ts-node-dev @types/node @types/express`
 
+- `npx install-peerdeps --dev eslint-config-airbnb`
+
 - `npx tsc --init`
 
 Add the following to your package.json:
